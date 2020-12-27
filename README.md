@@ -14,4 +14,7 @@
 <h5>정렬 </h5>
 <li>프로그래머스 가장 큰 수 : https://programmers.co.kr/learn/courses/30/lessons/42746 (2020-12-27)</li>
 <li>프로그래머스 H-index :https://programmers.co.kr/learn/courses/30/lessons/42747 (2020-12-27)</li>
+<br>
+<h5>해쉬 </h5>
+<li>프로그래머스 전화번호 목록 : https://programmers.co.kr/learn/courses/30/lessons/42577 (2020-12-27)</li>
 
