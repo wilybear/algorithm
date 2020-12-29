@@ -19,3 +19,8 @@
 <li>프로그래머스 전화번호 목록 : https://programmers.co.kr/learn/courses/30/lessons/42577 (2020-12-27)</li>
 <li>프로그래머스 위장 : https://programmers.co.kr/learn/courses/30/lessons/42578 (2020-12-28)</li>
 <li>프로그래머스 베스트앨범 : https://programmers.co.kr/learn/courses/30/lessons/42579 (2020-12-29)</li>
+
+<br>
+<h5>스택/큐</h5>
+<li>프로그래머스 주식 가격 : https://programmers.co.kr/learn/courses/30/lessons/42584 (2020-12-29)</li>
+
