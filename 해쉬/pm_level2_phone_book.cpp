@@ -5,7 +5,7 @@
 
 using namespace std;
 
-/* 문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/42577?language=cpp
+/* 문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/42577
  * 작성일 : 2020-12-27
  * 작성자 : wilybear
  * 해쉬 문제이지만 해쉬보다 정렬로 푸는게 더 쉬웠음
