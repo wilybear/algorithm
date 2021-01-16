@@ -27,3 +27,9 @@
 <li>프로그래머스 다리를 지나는 트럭 : https://programmers.co.kr/learn/courses/30/lessons/42583 (2020-12-30)</li>
 <li></li>
 
+
+<br>
+<h5>탐욕법</h5>
+<li>프로그래머스 주식 가격 : https://programmers.co.kr/learn/courses/30/lessons/42860 (2021-01-16)</li>
+
+
