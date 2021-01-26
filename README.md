@@ -32,4 +32,6 @@
 <h5>탐욕법</h5>
 <li>프로그래머스 주식 가격 : https://programmers.co.kr/learn/courses/30/lessons/42860 (2021-01-16)</li>
 
-
+<h5>BFS, DFS</h5>
+<li>타겟 넘버:https://programmers.co.kr/learn/courses/30/lessons/43165</li>
+<li>네트워크:https://programmers.co.kr/learn/courses/30/lessons/43162</li>

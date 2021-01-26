@@ -5,6 +5,11 @@
 
 using namespace std;
 
+/* 巩力 傅农 : https://programmers.co.kr/learn/courses/30/lessons/42860
+ * 累己老 : 2021-01-16
+ * 累己磊 : wilybear
+ */
+
 int solution(string name)
 {
     int answer = 0;
